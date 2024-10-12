@@ -6,7 +6,7 @@ export default function Save():JSX.Element {
         <img src="/src/assets/save.png" alt="hero-image" />
       </div>
       <div className="md:w-2/4">
-      <div className="space-y-4">
+      <div className="space-y-1">
       <p className="text-rise_black text-base md:text-xl text-center md:text-justify">The  Rise App</p>
       <h1 className="text-3xl md:text-5xl text-rise_black font-medium text-center md:text-justify">Save for your <span className="text-rise_purple">future</span></h1>
       <p className="md:w-4/5 tracking-wide text-lg md:text-xl text-rise_grey text-center md:text-justify px-2">With Rise, you achieve your financial goals faster. Save for school, your home, vacations, your children’s future and more.

@@ -5,6 +5,10 @@ import Support from "./components/Support";
 import Features from "./components/Features";
 import Asset from "./components/Asset";
 import Save from "./components/Save";
+import Regulation from "./components/Regulation";
+import Testimonial from "./components/Testimonial";
+import Community from "./components/Community";
+import Download from "./components/Download";
 
 function App() {
   return (
@@ -14,8 +18,12 @@ function App() {
         <Hero />
         <Support />
         <Features />
-        <Asset/>
-        <Save/>
+        <Asset />
+        <Save />
+        <Regulation />
+        <Testimonial />
+        <Community />
+        <Download />
       </main>
       <Footer />
     </>
