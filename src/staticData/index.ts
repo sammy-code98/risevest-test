@@ -29,3 +29,37 @@ export const AssetCardData: AssetCardI[] = [
     risk: "Medium",
   },
 ];
+
+export interface FooterLinksI {
+  title: string;
+  href: string;
+}
+
+export const footerMain: FooterLinksI[] = [
+  { title: "About Us", href: "" },
+  { title: "Careers", href: "" },
+  { title: "FAQs", href: "" },
+  { title: "Contact Info", href: "" },
+  { title: "Press", href: "" },
+  { title: "Rise Impact", href: "" },
+];
+
+export const footerExplore: FooterLinksI[] = [
+  { title: "Investmet Club", href: "" },
+  { title: "Blog", href: "" },
+];
+
+export const footerProducts: FooterLinksI[] = [
+  { title: "Rise App", href: "" },
+  { title: "Wallets", href: "" },
+  { title: "Asset Classes", href: "" },
+];
+
+export const footerContact:FooterLinksI[] = [
+  {title:"0818 714 7405", href:""},
+  {title:"hello@rise.capital", href:""},
+  {title:"Newsletter", href:""},
+  {title:"Instagram", href:""},
+  {title:"Twitter", href:""},
+
+]
