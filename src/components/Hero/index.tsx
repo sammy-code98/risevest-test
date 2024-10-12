@@ -6,7 +6,7 @@ export default function Hero(): JSX.Element {
           Dollar investments that help you grow{" "}
           <span className="w-3 h-3 bg-primary_light rounded-full absolute transform translate-y-4 md:translate-y-7 ml-1"></span>{" "}
         </h1>
-        <p className="text-xl px-6 md:px-0 md:w-3/5 text-rise_grey tracking-wide">
+        <p className="text-lg md:text-xl px-6 md:px-0 md:w-3/5 text-rise_grey text-center md:text-justify tracking-wide">
           We put your money in high quality assets that help you build wealth
           and achieve your financial goals.
         </p>
