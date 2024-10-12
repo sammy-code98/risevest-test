@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Support from "./components/Support";
 import Features from "./components/Features";
 import Asset from "./components/Asset";
+import Save from "./components/Save";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Support />
         <Features />
         <Asset/>
+        <Save/>
       </main>
       <Footer />
     </>
