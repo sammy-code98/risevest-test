@@ -11,7 +11,8 @@ export default {
         rise_indigo: "#F6F2FF",
         rise_teal: "#ECFEFE",
         white: "#FFFFFF",
-        primary_light:"#40BBC3"
+        primary_light:"#40BBC3",
+        rise_grey2:"#7B8DA8"
       },
       fontFamily: {
         sans: ["DM Sans", "sans-serif"],
