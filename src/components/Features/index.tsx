@@ -2,7 +2,7 @@ import { IoIosArrowRoundForward } from "react-icons/io";
 
 export default function Features(): JSX.Element {
   return (
-    <div className="w-11/12  mx-auto max-w-screen-2xl space-y-6">
+    <div className="w-11/12  mx-auto max-w-screen-2xl space-y-6 py-8">
       {/* invest */}
       <div className="flex flex-col md:flex-row justify-evenly items-center">
         <div>
