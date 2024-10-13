@@ -1,7 +1,7 @@
 
 export default function Save():JSX.Element {
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center mx-auto max-w-screen-2xl py-6 md:py-2 gap-6 md:gap-12">
+    <div className="flex flex-col md:flex-row justify-between items-center mx-auto max-w-screen-2xl py-6 md:py-12 gap-6 md:gap-12">
          <div>
         <img src="/src/assets/save.png" alt="hero-image" />
       </div>

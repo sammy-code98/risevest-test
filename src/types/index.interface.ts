@@ -6,3 +6,8 @@ export interface AssetCardI {
   history: string;
   risk: string;
 }
+
+export interface FooterLinksI {
+  title: string;
+  href: string;
+}

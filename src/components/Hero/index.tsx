@@ -2,7 +2,7 @@ import DownloadBtn from "../Utility/DownloadBtn";
 
 export default function Hero(): JSX.Element {
   return (
-    <div className="flex flex-col md:flex-row justify-evenly items-center mx-auto py-6 md:py-2 px-3 md:px-6 lg:px-8 xl:px-24 gap-6">
+    <div className="flex flex-col md:flex-row justify-evenly items-center mx-auto py-6 md:py-12 px-3 md:px-6 lg:px-8 xl:px-24 gap-6 bg-[url('/src/assets/heroBg.png')] bg-contain bg-repeat-x">
       <div className="md:w-1/2 space-y-4">
         <h1 className="text-primary text-5xl md:text-8xl font-medium relative">
           Dollar investments that help you grow{" "}
