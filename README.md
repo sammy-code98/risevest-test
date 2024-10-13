@@ -70,6 +70,7 @@ Etc...
 ## Author
 
 Uzor Samuel
+
 Frontend Engineer
 
 [LinkedIn](https://www.linkedin.com/in/samuel-uzor98/) || [Github](https://github.com/sammy-code98)
