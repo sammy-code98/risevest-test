@@ -3,6 +3,10 @@
 This project is built as part of a technical interview test for a frontend engineer position. It demonstrates the use of modern frontend technologies (ReactJs,Typescript,Tailwind Css ) to create an interactive, responsive, and scalable web application. The project adheres to best practices in code organization, component-based architecture, and performance optimization.
 
 
+## Demo
+[RiseTestDemo](https://samuel-uzor-rise-test.vercel.app/)
+
+
 ## Features
 - Responsive design for various screen sizes
 - Carousel/slider component
