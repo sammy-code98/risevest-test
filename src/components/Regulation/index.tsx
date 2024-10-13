@@ -1,7 +1,7 @@
 export default function Regulation(): JSX.Element {
   return (
     <div className="py-12">
-      <div className="w-full  bg-red-200 h-[500px] flex justify-center items-center">
+      <div className="w-full  bg-[url('/src/assets/regBg.png')] bg-cover bg-repeat-x h-[500px] flex justify-center items-center">
         <div className=" flex flex-col justify-center items-center space-y-4">
           <h1 className="text-rise_black text-3xl md:text-5xl font-medium">
             How we are Regulated
