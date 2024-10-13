@@ -1,13 +1,11 @@
-# React + TypeScript + Vite
+# RiseVest Frontend Engineer Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built as part of a technical interview test for a frontend engineer position. It demonstrates the use of modern frontend technologies (ReactJs,Typescript,Tailwind Css ) to create an interactive, responsive, and scalable web application. The project adheres to best practices in code organization, component-based architecture, and performance optimization.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Features
+- Responsive design for various screen sizes 
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 

@@ -1,5 +1,5 @@
 import { IoIosArrowRoundForward } from "react-icons/io";
-import { AssetCardI } from "../../types/assetCard.interface";
+import { AssetCardI } from "../../types/index.interface";
 
 export default function AssetCard({
   bgColor,
@@ -10,7 +10,10 @@ export default function AssetCard({
   risk,
 }: AssetCardI): JSX.Element {
   return (
-    <div className="md:w-4/5 h-[535px] border border-rise_border rounded-xl pb-12">
+    <div
+      className="md:w-4/5  border border-rise_border rounded-xl pb-12"
+      style={{ minHeight: "535px" }}
+    >
       <div
         className="h-1/3 rounded-t-xl flex justify-center items-center"
         style={{ backgroundColor: bgColor }}
@@ -20,7 +23,7 @@ export default function AssetCard({
         </div>
       </div>
 
-      <div className="mt-16 p-2">
+      <div className="mt-24 p-2 space-y-2">
         <h3 className="text-center text-rise_black text-xl md:text-2xl font-medium">
           {title}
         </h3>

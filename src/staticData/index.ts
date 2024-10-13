@@ -1,4 +1,4 @@
-import { AssetCardI } from "../types/assetCard.interface";
+import { AssetCardI, FooterLinksI } from "../types/index.interface";
 
 export const AssetCardData: AssetCardI[] = [
   {
@@ -30,10 +30,6 @@ export const AssetCardData: AssetCardI[] = [
   },
 ];
 
-export interface FooterLinksI {
-  title: string;
-  href: string;
-}
 
 export const footerMain: FooterLinksI[] = [
   { title: "About Us", href: "" },
@@ -55,11 +51,10 @@ export const footerProducts: FooterLinksI[] = [
   { title: "Asset Classes", href: "" },
 ];
 
-export const footerContact:FooterLinksI[] = [
-  {title:"0818 714 7405", href:""},
-  {title:"hello@rise.capital", href:""},
-  {title:"Newsletter", href:""},
-  {title:"Instagram", href:""},
-  {title:"Twitter", href:""},
-
-]
+export const footerContact: FooterLinksI[] = [
+  { title: "0818 714 7405", href: "" },
+  { title: "hello@rise.capital", href: "" },
+  { title: "Newsletter", href: "" },
+  { title: "Instagram", href: "" },
+  { title: "Twitter", href: "" },
+];

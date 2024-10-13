@@ -1,7 +1,7 @@
 export default function Community(): JSX.Element {
   return (
     <div className="flex flex-col md:flex-row justify-between items-center mx-auto max-w-screen-2xl py-6 md:py-2 gap-8 md:gap-12">
-      <div className="md:w-2/4">
+      <div className="md:w-2/4 md:px-12">
         <div className="space-y-1">
           <h1 className="text-3xl md:text-5xl text-rise_black font-medium text-center md:text-justify">
             Join The Rise Community
