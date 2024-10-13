@@ -14,7 +14,7 @@ export default function NavBar(): JSX.Element {
       <nav className="flex items-center flex-wrap bg-white p-3 md:px-24 w-full  mx-auto max-w-screen-2xl">
         {/* logo */}
         <a href="/">
-          <img src="/src/assets/logo.svg" alt="rise-logo" />
+          <img src="/images/logo.svg" alt="rise-logo" />
         </a>
 
         {/* hamburger button */}

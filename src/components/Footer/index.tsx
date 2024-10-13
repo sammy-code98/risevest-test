@@ -13,7 +13,7 @@ export default function Index() {
         <div>
           <div>
             <img
-              src="/src/assets/logo-dark.svg"
+              src="/images/logo-dark.svg"
               alt="dark-logo"
               className="pb-6"
             />

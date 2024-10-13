@@ -20,7 +20,7 @@ export default function Community(): JSX.Element {
         </div>
       </div>
       <div className="order-first md:order-last px-3">
-        <img src="/src/assets/join.png" alt="hero-image"/>
+        <img src="/images/join.png" alt="hero-image"/>
       </div>
     </div>
   );

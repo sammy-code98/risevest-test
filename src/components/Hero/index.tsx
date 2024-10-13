@@ -16,7 +16,7 @@ export default function Hero(): JSX.Element {
         <DownloadBtn />
       </div>
       <div>
-        <img src="/src/assets/phone.png" alt="hero-image" />
+        <img src="/images/phone.png" alt="hero-image" />
       </div>
     </div>
   );
