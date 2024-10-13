@@ -22,7 +22,7 @@ export default function Features(): JSX.Element {
           </div>
         </div>
         <div className="order-first md:order-last">
-          <img src="/src/assets/invest.svg" alt="invest" className="h-full" />
+          <img src="/images/invest.svg" alt="invest" className="h-full" />
         </div>
       </div>
 
@@ -30,7 +30,7 @@ export default function Features(): JSX.Element {
 
       <div className="flex flex-col md:flex-row justify-between items-center">
         <div>
-          <img src="/src/assets/choice.svg" alt="invest" className="h-full" />
+          <img src="/images/choice.svg" alt="invest" className="h-full" />
         </div>
 
         <div className="md:w-1/2">
@@ -73,14 +73,14 @@ export default function Features(): JSX.Element {
           </div>
         </div>
         <div className="order-first md:order-last">
-          <img src="/src/assets/goals.svg" alt="invest" className="h-full" />
+          <img src="/images/goals.svg" alt="invest" className="h-full" />
         </div>
       </div>
 
       {/* remember */}
       <div className="flex flex-col md:flex-row justify-between items-center">
         <div>
-          <img src="/src/assets/remember.svg" alt="invest" className="h-full" />
+          <img src="/images/remember.svg" alt="invest" className="h-full" />
         </div>
 
         <div className="md:w-1/2">

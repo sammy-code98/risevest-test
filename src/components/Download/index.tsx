@@ -21,7 +21,7 @@ export default function Download(): JSX.Element {
         </div>
 
         <div className="md:absolute md:right-12  md:bottom-0   md:tranform -translate-y-8 md:translate-y-5 ">
-          <img src="/src/assets/users.png" alt="hero-image" />
+          <img src="/images/users.png" alt="hero-image" />
         </div>
       </div>
     </div>

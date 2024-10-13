@@ -9,7 +9,7 @@ export default function TestimonialCard(): JSX.Element {
       </p>
       <div className="pt-6">
         <div className="flex items-center gap-6">
-          <img src="/src/assets/test.png" alt="user" className="h-14" />
+          <img src="/images/test.png" alt="user" className="h-14" />
           <p className="text-rise_black text-xl font-medium">Jesse</p>
         </div>
       </div>
