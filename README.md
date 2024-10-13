@@ -3,6 +3,12 @@
 This project is built as part of a technical interview test for a frontend engineer position. It demonstrates the use of modern frontend technologies (ReactJs,Typescript,Tailwind Css ) to create an interactive, responsive, and scalable web application. The project adheres to best practices in code organization, component-based architecture, and performance optimization.
 
 
+## Features
+- Responsive design for various screen sizes
+- Carousel/slider component
+- Type check for props
+- Meta and image alt attributes for SEO optimaztion
+- Lazy load components for Performance Optimization
 
 ## Technologies Used
 - **React.js:** For building the user interface.
@@ -59,3 +65,11 @@ Etc...
 - **Add Testing:** Improve coverage for edge cases and asynchronous flows
 - **Accessibility:** Ensure that all UI components are accessible with keyboard navigation and screen readers.
 - **SEO:** Implement better SEO practices (e.g., meta tags, alt attributes for images).
+
+
+## Author
+
+Uzor Samuel
+Frontend Engineer
+
+[LinkedIn](https://www.linkedin.com/in/samuel-uzor98/) || [Github](https://github.com/sammy-code98)
